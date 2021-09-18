@@ -14,7 +14,7 @@ const Input = ({
       <input
         type={type}
         placeholder={placeholder}
-        className="w-full px-3 py-1 focus:outline-none focus:ring focus:border-primary rounded min-w-250"
+        className="bg-purple-50 w-full px-3 py-1 focus:outline-none focus:ring focus:border-primary rounded min-w-250"
         value={value}
         name={name}
         onChange={changeHandler}

@@ -30,11 +30,12 @@ const Main = () => {
         </div>
         <Link
           to="/add-rule"
-          className="position fixed right-2 bottom-2 2xl:right-5 2xl:bottom-5 xl:right-5 2xl:bottom-5 w-14 h-14 animation-ripple"
+          className="position fixed right-2 bottom-2 2xl:right-5 2xl:bottom-5 xl:right-5 xl:bottom-5 w-14 h-14 animation-ripple"
         >
           <img
             src="https://img.icons8.com/plasticine/100/000000/plus-2-math.png"
             className="animation-ripple"
+            alt="rules book add button"
           />
         </Link>
       </main>

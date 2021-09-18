@@ -11,6 +11,7 @@ const Card = ({ number, content, pinned }) => {
         <img
           src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/24/000000/external-pin-office-those-icons-lineal-color-those-icons.png"
           className="position absolute top-1 right-1"
+          alt="pin"
         />
       )}
     </div>

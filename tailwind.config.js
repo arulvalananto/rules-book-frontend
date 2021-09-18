@@ -20,6 +20,7 @@ module.exports = {
         primary: "#76BB9F",
         secondary: "#E74757",
         tertiary: "#DC8F66",
+        lightWhite: "#FEFEFE",
       },
       spacing: {
         1: "8px",
